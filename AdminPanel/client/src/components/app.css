@@ -1,0 +1,12 @@
+body {
+    background: url(../assets/img/cover.png) no-repeat;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+    overflow-x: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
